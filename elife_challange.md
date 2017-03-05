@@ -50,6 +50,10 @@
 
 #### Flask
 
+##### Template ideas
+* http://codepen.io/machonky/pen/epGNWO
+* http://bootsnipp.com/snippets/vrzGb
+
 
 #### APIs
 * [eLife](https://master.api.elifesciences.org/). In its current state not really usable.
